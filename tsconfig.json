@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "out": "dist/main.js",
+    "watch": true
+  },
+  "files": [
+    "src/util_classes.ts",
+    "src/BinSearchTree.ts",
+    "src/RedBlackTree.ts",
+    "src/AVLTree.ts",
+    "src/main.ts"
+  ]
+}
